@@ -2675,6 +2675,12 @@
       "config_flow": false,
       "iot_class": "calculated"
     },
+    "jf_smhi": {
+      "name": "JF SMHI",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "joaoapps_join": {
       "name": "Joaoapps Join",
       "integration_type": "hub",

@@ -219,6 +219,7 @@ FLOWS = {
         "isy994",
         "izone",
         "jellyfin",
+        "jf_smhi",
         "juicenet",
         "justnimbus",
         "jvc_projector",

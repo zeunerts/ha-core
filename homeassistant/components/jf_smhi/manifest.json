@@ -1,0 +1,13 @@
+{
+  "domain": "jf_smhi",
+  "name": "JF SMHI",
+  "codeowners": ["@zeunerts"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/jf_smhi",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
